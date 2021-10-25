@@ -1,0 +1,12 @@
+import turtle
+window=turtle.Screen()
+window.bgcolor("blue")
+bepo=turtle.Turtle()
+bepo.forward(50)
+bepo.left(90)
+bepo.forward(100)
+bepo.left(90)
+bepo.forward(50)
+bepo.left(90)
+bepo.forward(100)
+window.mainloop()
